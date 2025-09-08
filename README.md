@@ -3,7 +3,7 @@
 
 HotelGist is Asp.Net based Hotel Room Booking and Back Office ERP suite an ideal software solution for Hospitality Industry that can be used at hotels motels, inns, resorts, lodges, hostel, military guest houses, ranch, suites, apartments, medical centers and bed, breakfast operations. Our product Hotelier HotelGist is a comprehensive software suite consisting of integrated modules for various aspects of hotel management. HotelGist has covered solution of hotel management, Hotel Point of Sales (Restaurant, Bar, Room Service, House Keeping or any other outlet), Inventory Management System and Hotel accounting software. In our lodging software, all modules are tightly integrated and all hotel programs are included in one price, meaning all modules are included at no additional cost regardless of your hotel size.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/hotelgist_13.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738382488_cce22464834404441a6b.webp">
 
 <b>Online Hotel Management Software has the following core modules:</b>
 
@@ -23,5 +23,15 @@ HotelGist is Asp.Net based Hotel Room Booking and Back Office ERP suite an ideal
 <li>Hotel Master</li>
 <li>Reprint Master</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/online-hotel-software/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-hotel-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
